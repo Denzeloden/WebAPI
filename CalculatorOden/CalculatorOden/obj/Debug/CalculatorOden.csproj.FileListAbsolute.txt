@@ -1,0 +1,10 @@
+C:\Users\Denzel Oden\source\repos\CalculatorOden\CalculatorOden\bin\Debug\CalculatorOden.exe.config
+C:\Users\Denzel Oden\source\repos\CalculatorOden\CalculatorOden\bin\Debug\CalculatorOden.exe
+C:\Users\Denzel Oden\source\repos\CalculatorOden\CalculatorOden\bin\Debug\CalculatorOden.pdb
+C:\Users\Denzel Oden\source\repos\CalculatorOden\CalculatorOden\obj\Debug\CalculatorOden.csprojAssemblyReference.cache
+C:\Users\Denzel Oden\source\repos\CalculatorOden\CalculatorOden\obj\Debug\CalculatorOden.Properties.Resources.resources
+C:\Users\Denzel Oden\source\repos\CalculatorOden\CalculatorOden\obj\Debug\CalculatorOden.csproj.GenerateResource.cache
+C:\Users\Denzel Oden\source\repos\CalculatorOden\CalculatorOden\obj\Debug\CalculatorOden.csproj.CoreCompileInputs.cache
+C:\Users\Denzel Oden\source\repos\CalculatorOden\CalculatorOden\obj\Debug\CalculatorOden.exe
+C:\Users\Denzel Oden\source\repos\CalculatorOden\CalculatorOden\obj\Debug\CalculatorOden.pdb
+C:\Users\Denzel Oden\source\repos\CalculatorOden\CalculatorOden\obj\Debug\CalculatorOden.App.resources
